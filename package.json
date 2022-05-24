@@ -1,5 +1,6 @@
 {
   "name": "formation-builder",
+  "homepage": "https://Pandatinfo.github.io/form-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
